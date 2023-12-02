@@ -1,5 +1,4 @@
-# MoodSound
-## Predicting Mental Health with Music
+# MoodSound (Predicting Mental Health with Music)
 
 ## Overview
 

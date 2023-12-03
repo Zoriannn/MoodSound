@@ -1,4 +1,4 @@
-# MoodSound (Predicting Mental Health with Music)
+# MoodSound (by ForestFerocious)
 
 ## Overview
 
